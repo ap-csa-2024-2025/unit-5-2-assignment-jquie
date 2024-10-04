@@ -5,6 +5,9 @@ public class Coins
     // test code here
   }
 
-  // write code for coinConverter
+  public static String coinConverter(int n)
+  {
+    
+  }
 
 }
